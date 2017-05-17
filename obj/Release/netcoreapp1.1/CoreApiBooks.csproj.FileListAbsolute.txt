@@ -1,0 +1,9 @@
+C:\Dev\CoreApiBooks\CoreApiBooks\bin\Release\netcoreapp1.1\CoreApiBooks.deps.json
+C:\Dev\CoreApiBooks\CoreApiBooks\bin\Release\netcoreapp1.1\CoreApiBooks.runtimeconfig.json
+C:\Dev\CoreApiBooks\CoreApiBooks\bin\Release\netcoreapp1.1\CoreApiBooks.runtimeconfig.dev.json
+C:\Dev\CoreApiBooks\CoreApiBooks\bin\Release\netcoreapp1.1\CoreApiBooks.dll
+C:\Dev\CoreApiBooks\CoreApiBooks\bin\Release\netcoreapp1.1\CoreApiBooks.pdb
+C:\Dev\CoreApiBooks\CoreApiBooks\obj\Release\netcoreapp1.1\CoreApiBooks.csprojResolveAssemblyReference.cache
+C:\Dev\CoreApiBooks\CoreApiBooks\obj\Release\netcoreapp1.1\CoreApiBooks.AssemblyInfo.cs
+C:\Dev\CoreApiBooks\CoreApiBooks\obj\Release\netcoreapp1.1\CoreApiBooks.dll
+C:\Dev\CoreApiBooks\CoreApiBooks\obj\Release\netcoreapp1.1\CoreApiBooks.pdb
